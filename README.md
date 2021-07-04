@@ -1,5 +1,5 @@
 # bitcoin_app
-This application shows the user the current exchange rates of Bitcoin , Ethereum, Litecoins with more than 20 different currencies
+This application shows to the user currently exchange rates of Bitcoin , Ethereum, Litecoins with more than 20 different currencies
 
 ## Getting Started
 
