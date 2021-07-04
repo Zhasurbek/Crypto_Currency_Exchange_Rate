@@ -1,6 +1,5 @@
 # bitcoin_app
-
-A new Flutter project.
+This application shows the user the current exchange rates of Bitcoin , Ethereum, Litecoins with more than 20 different currencies
 
 ## Getting Started
 
